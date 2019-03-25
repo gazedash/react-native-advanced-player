@@ -1,0 +1,138 @@
+[
+  {"id": "dash bitmvin",
+  "url": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+"type": "dash",
+"artist": "dash bit",
+"title": "dash bit",
+"description": "dash bit"},
+  {
+    "id": "dash google glass",
+    "url": "https://www.youtube.com/api/manifest/dash/id/bf5bb2419360daf1/source/youtube?as=fmp4_audio_clear,fmp4_sd_hd_clear&sparams=ip,ipbits,expire,source,id,as&ip=0.0.0.0&ipbits=0&expire=19000000000&signature=51AF5F39AB0CEC3E5497CD9C900EBFEAECCCB5C7.8506521BFC350652163895D4C26DEE124209AA9E&key=ik0",
+    "type": "dash",
+    "title": "dash youtube google",
+    "artist": "dash youtube google",
+    "description": "dash youtube google"
+  },
+  {
+    "id": "exo-dash",
+    "url": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_sd.mpd",
+    "type": "dash",
+    "title": "dash google",
+    "artist": "dash google",
+    "description": "dash google"
+  },
+  {
+   "id": "hls-video",
+   "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+   "type": "hls",
+   "title": "hls video",
+   "artist": "hls video",
+   "description": "hls-video"
+  },
+  {
+    "id": "trackId",
+    "contentType": "audio/mp3",
+    "url": "https://storage.googleapis.com/exoplayer-test-media-0/play.mp3",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "Google Play",
+    "artist": "Track Artist",
+    "description": "Google Play"
+  },
+  {
+    "id": "try2",
+    "contentType": "audio/mp3",
+    "url": "http://vicfirth.com/wp-content/uploads/2014/09/RockGroove7Slow1.mp3",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "vic firth drum exercise",
+    "artist": "artist",
+    "description": "Vic Firth Drum Exercise"
+  },
+
+  {
+    "id": "mpd-0",
+    "type": "dash",
+    "url": "https://www-itec.uni-klu.ac.at/ftp/datasets/mmsys12/Valkaama/MPDs/Valkaama_1s_act_isoffmain_DIS_23009_1_v_2_1c2_2011_08_30.mpd",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "mpd 1",
+    "artist":"mpddd",
+    "description": "mpd"
+  },
+  {
+    "id": "mpd-1",
+    "type": "dash",
+    "url": "https://www-itec.uni-klu.ac.at/ftp/datasets/mmsys12/Valkaama/valkaama_1s/valkaama_1s_50kbit/valkaama_50kbit_dash.mp4",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "mpd 2",
+    "artist": "mpdddd2",
+    "description": "mpddd"
+  },
+  {
+    "id": "mpd-2",
+    "type": "dash",
+    "url": "https://gce-bitbucket.storage.googleapis.com/bitStorage/2_6f9d0adade5b9d4547d0ac6ae436ae9c/546_Sintel.2010.720p.mkv/mpds/Sintel.2010.720p.mkv.mpd",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "mpd 3",
+    "artist": "mpdddddd3",
+    "description": "mpdddddd3"
+  },
+  {
+    "id": "hls-apple",
+    "type": "hls",
+    "url": "https://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "bibbop hls by apple",
+    "description": "hls by apple"
+  },
+  {
+    "id": "prog-hls",
+    "type": "hls",
+    "url": "https://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "prog index hls",
+    "description": "apple prog index hls m3u8"
+  },
+  {"id": "m3u8-hls",
+    "type": "hls",
+  "url": "https://s2.content.video.llnw.net/smedia/42f4e71183054396907c0dea18241568/lB/Qc25Nb0TUdQe_w_ScrBJzqxkVpsKUEm1dGtLWhM3g/francstireurs_entrevue_ep472_seq24.mpegts/playlist-10a6530ae4e350c1c757c11287d1a0f7c2fad471.m3u8",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "test-hls",
+    "artist": "test-hls",
+    "description": "test-hls"
+},
+  {
+    "id": "aac",
+    "contentType": "audio/m4a",
+    "url": "https://archive.org/download/AacFile/14235-AAC-20K-FTD.aac",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "aac",
+    "artist": "aac",
+    "description": "aac"
+  },
+  {
+    "id": "he-aacv2",
+    "contentType": "audio/mp4",
+    "url": "https://www2.iis.fraunhofer.de/AAC/SBRtestStereoAot5Sig1.mp4",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "he-aac v2 audio/vnd.dolby.heaac.2?",
+    "artist": "frauhofer.de",
+    "description": "he-aac v2 file"
+  },
+  {
+    "id": "he-aac",
+    "contentType": "audio/mp4",
+    "url": "https://www2.iis.fraunhofer.de/AAC/ChID-BLITS-EBU-Narration.mp4",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "HE-AAC audio/mp4?",
+    "artist": "frauhofer.de",
+    "description": "HE-AAC file"
+  },
+  {
+    "id": "dash",
+    "type": "dash",
+    "url": "http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-audio.mpd",
+    "imageUrl": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+    "title": "sample dash adaptive bitrate streaming file",
+    "artist": "sample dash adaptive bitrate streaming file",
+    "description": " sample dash adaptive bitrate streaming file "
+  }
+]

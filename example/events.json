@@ -1,0 +1,22 @@
+[
+    {
+      "time": 0,
+      "end": 5,
+      "content": "Some event 1",
+      "img": "https://comps.canstockphoto.com/closeup-image-of-small-dog-yorkshire-stock-photograph_csp2414009.jpg",
+      "id": 1
+    },
+    {
+      "time": 10,
+      "end": 15,
+      "content": "Some event 2",
+      "img": "https://comps.canstockphoto.com/womans-hand-gesturing-a-small-amount-stock-image_csp4354356.jpg",
+      "id": 2
+    },
+    {
+      "time": 15,
+      "content": "Some event 3",
+      "img": "https://images.pexels.com/photos/1267244/pexels-photo-1267244.jpeg?cs=srgb&dl=adult-bar-beer-1267244.jpg&fm=jpg",
+      "id": 3
+    }
+]

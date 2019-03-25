@@ -1,0 +1,18 @@
+module.exports = {
+  arrowParens: 'always',
+  semi: false,
+  singleQuote: true,
+  trailingComma: 'es5',
+  bracketSpacing: true,
+  disableLanguages: ['vue'],
+  eslintIntegration: false,
+  ignorePath: '.prettierignore',
+  jsxBracketSameLine: false,
+  parser: 'babel',
+  printWidth: 80,
+  proseWrap: 'preserve',
+  requireConfig: false,
+  stylelintIntegration: false,
+  tabWidth: 2,
+  useTabs: false,
+}
